@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-j+ibw2b76+so@4)_jm@avuz_42fmw%#wapah*r8z^=gu06hk+k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['polar-temple-02502.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
