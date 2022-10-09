@@ -1,0 +1,7 @@
+db.sqlite3
+env/
+newspaper_project/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
+pages/__pycache__/
+pages/migrations/__pycache__/
